@@ -1,0 +1,16 @@
+Company: FinAI Solutions
+Position: Machine Learning Engineer
+
+Responsibilities:
+- Design and deploy scalable ML pipelines for production.
+- Build predictive models for customer behavior and financial analytics.
+- Collaborate with data engineers to optimize feature pipelines.
+
+Requirements:
+- Strong experience with Python, SQL, and ML frameworks (TensorFlow or PyTorch).
+- Experience with data preprocessing, model deployment, and cloud platforms (AWS/GCP).
+- Knowledge of NLP and embeddings is a plus.
+
+Preferred Skills:
+- Docker, Kubernetes, FastAPI, Streamlit
+- Excellent problem-solving and communication skills
