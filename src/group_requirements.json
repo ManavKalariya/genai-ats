@@ -1,0 +1,95 @@
+{
+    "programming languages": [
+        "python", "java", "c++", "c", "c#", "go", "rust", "scala", "ruby", "php",
+        "javascript", "typescript", "html", "css", "r", "swift", "objective-c", "matlab"
+    ],
+    "scripting languages": [
+        "bash", "powershell", "shell scripting", "python", "javascript", "ruby"
+    ],
+    "databases": [
+        "sql", "mysql", "postgresql", "sqlite", "oracle", "mssql", "mongodb", "cassandra",
+        "redis", "neo4j", "couchdb", "dynamodb", "elasticsearch", "bigtable"
+    ],
+    "stores": [
+        "s3", "hdfs", "bigtable", "snowflake", "redshift", "bigquery","sql", "mysql", "postgresql", "sqlite", "oracle", "mssql", "mongodb", "cassandra",
+        "redis", "neo4j", "couchdb", "dynamodb", "elasticsearch", "bigtable"
+    ],
+    "sql databases": [
+        "sql", "mysql", "postgresql", "sqlite", "oracle", "mssql"
+    ],
+    "nosql databases": [
+        "mongodb", "cassandra", "redis", "neo4j", "couchdb", "dynamodb", "elasticsearch"
+    ],
+    "cloud": [
+        "aws", "azure", "gcp", "s3", "ec2", "lambda", "eks", "emr", "athena", "cloud run",
+        "vertex ai", "bigtable", "dataproc", "pubsub", "snowflake", "redshift", "bigquery",
+        "databricks", "cloud computing", "virtualization", "containerization"
+    ],
+
+    "devops and mlops": [
+        "docker", "kubernetes", "openshift", "helm", "terraform", "ansible", "jenkins",
+        "gitlab ci", "github actions", "circleci", "argo", "mlflow", "dvc", "feast",
+        "kubeflow", "airflow", "luigi", "prefect", "ci/cd", "devops", "mlops",
+        "monitoring", "logging", "alerting", "deployment", "automation", "orchestration"
+    ],
+    "containerization": [
+        "docker", "kubernetes", "openshift", "containerization"
+    ],
+    "ci cd tools": [
+        "jenkins", "gitlab ci", "github actions", "circleci", "argo", "ci/cd",
+        "continuous integration", "continuous deployment"
+    ],
+    "version control": [
+        "git", "github", "gitlab", "bitbucket", "svn", "version control", "code review"
+    ],
+    "data science and ml stack": [
+        "machine learning", "deep learning", "nlp", "computer vision", "tensorflow",
+        "pytorch", "keras", "scikit-learn", "xgboost", "pandas", "numpy", "scipy",
+        "spark", "hadoop", "databricks", "data analysis", "data modeling"
+    ],
+    "ml frameworks": [
+        "tensorflow", "pytorch", "keras", "scikit-learn", "xgboost", "lightgbm",
+        "catboost", "transformers", "huggingface", "fastai"
+    ],
+    "data science libraries": [
+        "pandas", "numpy", "scipy", "matplotlib", "seaborn", "plotly", "bokeh",
+        "statsmodels", "networkx", "dask", "polars"
+    ],
+    "nlp": [
+        "nlp", "spacy", "transformers", "nltk", "gensim", "fasttext", "stanfordnlp",
+        "sentence transformers", "bert", "gpt", "llm", "word2vec", "doc2vec", "glove"
+    ],
+    "deep learning concepts": [
+        "deep learning", "lstm", "cnn", "rnn", "transformer", "autoencoder", "gan",
+        "vae", "attention", "seq2seq", "graph neural networks"
+    ],
+
+    "data processing and etl": [
+        "hadoop", "spark", "hive", "pig", "flink", "beam", "presto", "trino", "dask",
+        "etl", "elt", "data pipelines", "data wrangling", "data cleaning", "dataiku",
+        "alteryx", "talend", "informatica", "pentaho", "ssis", "airbyte", "fivetran", "stitch"
+    ],
+    "big data technologies": [
+        "hadoop", "spark", "hive", "pig", "flink", "beam", "presto", "trino",
+        "snowflake", "redshift", "bigquery", "databricks", "cassandra", "distributed computing"
+    ],
+    "web dev and apis": [
+        "api", "rest", "graphql", "grpc", "microservices", "fastapi", "flask", "django",
+        "spring", "express", "nodejs", "react", "angular", "vue", "html", "css",
+        "javascript", "typescript", "rest api"
+    ],
+    "data visualization tools": [
+        "tableau", "power bi", "looker", "qlikview", "superset", "metabase",
+        "matplotlib", "seaborn", "plotly", "bokeh", "data visualization", "data storytelling"
+    ],
+    "agile and project management": [
+        "agile", "scrum", "kanban", "jira", "confluence", "trello", "asana", "notion",
+        "project management", "requirements gathering", "stakeholder management"
+    ],
+    "soft skills": [
+        "communication", "teamwork", "problem solving", "critical thinking", "leadership",
+        "time management", "adaptability", "creativity", "empathy", "conflict resolution",
+        "decision making", "interpersonal skills", "presentation skills", "public speaking",
+        "negotiation", "mentoring", "coaching", "emotional intelligence", "communication skills"
+    ]
+}

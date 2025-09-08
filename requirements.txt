@@ -1,3 +1,7 @@
 sentence-transformers
 scikit-learn
 matplotlib
+spacy
+keybert
+rapidfuzz
+sentence-transformers

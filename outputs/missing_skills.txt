@@ -1,0 +1,8 @@
+Resume Skills:
+doe, com, education b tech, engineering xyz, skills python, machine learning, tensorflow scikit, dec, customer, customer churn 85, accuracy automated, data, pipelines, python pandas projects, tweets, sentiment, interactive sales dashboards, tableau
+
+JD Skills:
+production, finai solutions, solutions position machine, data engineers, scalable ml, ml pipelines production, python sql ml, models customer, behavior financial analytics, behavior, strong, tensorflow pytorch, data, data preprocessing, model deployment, cloud, gcp, knowledge nlp embeddings, preferred, skills, skills docker kubernetes, excellent problem
+
+Missing Skills:
+production, finai solutions, solutions position machine, models customer, behavior financial analytics, behavior, strong, tensorflow pytorch, model deployment, cloud, gcp, knowledge nlp embeddings, preferred, skills, skills docker kubernetes, excellent problem
